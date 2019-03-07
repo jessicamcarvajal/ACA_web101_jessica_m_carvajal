@@ -1,0 +1,33 @@
+body {
+    background-color:white;
+    border-style: solid;
+    border-color: navy;
+    margin: 100px;
+    padding: 15px;
+}
+
+.blog-box {
+    border-style: solid;
+    border-color: navy;
+    margin: 1px;
+    
+}
+
+.blog-box-title {
+    color: navy;
+    font-size: 30px;
+    margin: 1px;
+}
+
+.description {
+    color: navy;
+    font-size: 20px;
+    margin: 5px; 1px;
+}
+
+p {
+    color: navy;
+    padding: 1px;
+    font-size: 12px;
+    margin: 1px;
+}
