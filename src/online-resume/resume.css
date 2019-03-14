@@ -20,31 +20,56 @@ h2 {
 }
 
 p {
-    /* display: block; */
+    margin: 4px 0px;
+    /* display: inline-block; */
 }
 
 .title {
     width: auto;
     display: inline-block;
-     
 }
 
-.location_date {
+.company p {
+    margin: 4px 4px 4px 0px;
+    font-weight: bold;
+    /* max-width: 85%; */
+}
+
+.location_date1 {
    
-    width: 50%; 
+    /* width: 50%;  */
     /* margin: 1px; */
     margin: 0px 0px 0px 300px;
     display: inline-block;
+    float: right;
+}
+
+.location_date2 {
+   
+    /* width: 50%;  */
+    /* margin: 1px; */
+    margin: 0px 0px 0px 300px;
+    display: inline-block;
+    float: right;
+}
+
+.location_date3 {
+   
+    /* width: 50%;  */
+    /* margin: 1px; */
+    margin: 0px 0px 0px 300px;
+    display: inline-block;
+    float: right;
 }
 
 .company {
     
-    width: auto;
-    padding: 0px;
+    /* width: auto; */
+    /* padding: 0px; */
     display: inline-block;
 }
 
-section {
+/* section { */
     display: inline-block;
     width: 100%;
 }

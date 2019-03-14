@@ -1,0 +1,31 @@
+header {
+    display: inline;
+}
+
+ul {
+    display: inline;
+    float: right;
+    list-style-type: none; }
+}
+
+img {
+    width: 700px;
+}
+
+/* Small and up (Landscape Phones) */
+@media (max-width: 576px) {
+ul {
+    display: none;
+}
+
+}
+
+/* Tablets */
+@media (min-width: 768px) {
+
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+
+}
