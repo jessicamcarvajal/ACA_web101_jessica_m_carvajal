@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+     
+}
+
+header {
+    /* margin: 1px;  */
+    text-align: center;
+    padding: 1px;
+}
+
+h1 {
+    /* margin: 1%;  */
+}
+
+h2 {
+    border: 5px solid lightgray;
+    background-color: lightgrey;
+}
+
+p {
+    /* display: block; */
+}
+
+.title {
+    width: auto;
+    display: inline-block;
+     
+}
+
+.location_date {
+   
+    width: 50%; 
+    /* margin: 1px; */
+    margin: 0px 0px 0px 300px;
+    display: inline-block;
+}
+
+.company {
+    
+    width: auto;
+    padding: 0px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    width: 100%;
+}
+
+
